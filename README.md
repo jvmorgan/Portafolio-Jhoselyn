@@ -1,3 +1,7 @@
 # Portafolio-Jhoselyn
 Portafolio de proyectos Data Analyst
-prueba para ver si se copia en la pc
+
+## Sprint 1 : Python Basico 
+Descripcion 
+## Sprint 2 : Pandas
+Descripcion 
